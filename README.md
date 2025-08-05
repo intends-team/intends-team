@@ -1,4 +1,4 @@
-# 🚀 INTENDS
+# INTENDS
 
 **We Build. We Deploy. We Analyze.**
 
